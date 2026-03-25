@@ -1,0 +1,6 @@
+This is a test file created for the GitHub Setup Activity.
+
+Purpose:
+To demonstrate how to upload files to a GitHub repository.
+
+Created by: Your Name
